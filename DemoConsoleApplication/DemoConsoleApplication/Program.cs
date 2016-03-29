@@ -15,5 +15,7 @@ namespace DemoConsoleApplication
                 Console.WriteLine(item);
             }
         }
+
+        private void W() { }
     }
 }
