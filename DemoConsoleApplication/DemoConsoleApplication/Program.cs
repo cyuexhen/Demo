@@ -10,6 +10,10 @@ namespace DemoConsoleApplication
     {
         static void Main(string[] args)
         {
+            foreach (var item in new[] { 1, 2, 3, 4 })
+            {
+
+            }
         }
     }
 }
