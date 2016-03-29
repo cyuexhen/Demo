@@ -15,5 +15,7 @@ namespace DemoConsoleApplication
 
             }
         }
+
+        private static void T() { }
     }
 }
