@@ -16,6 +16,8 @@ namespace DemoConsoleApplication
             }
         }
 
+        private static void T() { }
+
         private void W() { }
     }
 }
