@@ -12,7 +12,7 @@ namespace DemoConsoleApplication
         {
             foreach (var item in new[] { 1, 2, 3, 4 })
             {
-
+                Console.WriteLine(item);
             }
         }
 
